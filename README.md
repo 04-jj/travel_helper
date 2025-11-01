@@ -32,12 +32,3 @@
 - **数据服务**: API
 - **架构模式**: Tool Calling Agent + 对话记忆
 
-### 项目结构
-travel_helper/
-├── main.py 
-├── app.py # GUI 界面
-├── prompt.yaml 
-├── weather_agent.py 
-├── route_agent.py 
-├── visit_agent.py  
-└── clothes_recommender.py
