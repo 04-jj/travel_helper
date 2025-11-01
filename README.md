@@ -32,3 +32,6 @@
 - **数据服务**: API
 - **架构模式**: Tool Calling Agent + 对话记忆
 
+## 项目截图
+
+![旅游助手界面](image.jpg)
